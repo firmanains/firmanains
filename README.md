@@ -30,3 +30,5 @@ $ tail -n 3 changelog
 **Reach me**
 
 [firmanains.github.io](https://firmanains.github.io) · [linkedin](https://www.linkedin.com/in/firmanains) · firmanains@gmail.com
+
+<sub>I lost access to my old account, `jetaimejeteveux`. Older links and commits point there; everything current lives here.</sub>
