@@ -1,6 +1,6 @@
 ### Firman Aulia Insani
 
-Backend engineer in Jakarta. I work on government-scale systems: PHP and Go services on MariaDB,
+Backend engineer in Jakarta, Indonesia. I work on government-scale systems: PHP and Go services on MariaDB,
 with Kafka, Elasticsearch and Kubernetes around them. Most of my time goes to the unglamorous half
 of backend work, which is keeping things up under real load, and making migrations boring enough to
 run at 22:00.
